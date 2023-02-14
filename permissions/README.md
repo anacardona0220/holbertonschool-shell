@@ -13,3 +13,4 @@
 12-directory_permissions
 13-change_group
 14-change_owner_and_group
+15-symbolic_link_permissions
